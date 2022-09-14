@@ -29,4 +29,4 @@ module.exports = concatArray
 // concatArray(undefined, undefined) 
 // concatArray(null, undefined) 
 // concatArray(undefined, null) 
-// concatArray(null, null) 
+// concatArray(null, null)
